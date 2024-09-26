@@ -1,0 +1,283 @@
+.compare {
+    position: relative;
+}
+.span-0 {
+    width: 18px;
+    height: 18px;
+    border-radius: 50px;
+    line-height: 18px;
+    font-size: 12px;
+    background: #e6e6e6;
+    position: absolute;
+    top: -9px;
+    text-align: center;
+    font-weight: 400;
+}
+.search {
+    height: 50px;
+    font-size: 15px;
+}
+.search-logo {
+    background-color: rgb(39, 175, 46);
+    border: none;
+    height: 50px;
+    width: 50px;
+    color: #fff;
+    font-size: 25px;
+}
+.all-catageries {
+    height: 50px;
+    width: 130px;
+    font-size: 13px;
+}
+.logo-heart-0 {
+    padding: 0px 6px;
+    border-radius: 100px;
+
+    position: absolute;
+    background: #e6e6e6;
+    top: 5px;
+    font-size: 10px;
+}
+.login-btn {
+    font-size: 13px;
+    background-color: #7e7979;
+    color: #fff;
+}
+.carts-icons {
+    padding-left: 20px;
+}
+.select_out {
+    height: 50px;
+}
+.search_out {
+    height: 50px;
+}
+.search_logo_out {
+    background-color: rgb(39, 175, 46);
+    height: 50px;
+    width: 50px;
+    color: #fff;
+    font-size: 25px;
+}
+.safira-img {
+    margin-left: 50px;
+}
+.logos {
+    position: relative;
+}
+.OFF_SIGNINUP {
+    margin: 0px 110px;
+}
+.OFF_COMPARE {
+    margin: 0px 70px;
+}
+.thirdnav-select {
+    width: 250px;
+    height: 60px;
+    background-color: rgb(39, 175, 46);
+}
+.catagaries_3_nav {
+    background-color: rgb(39, 175, 46);
+    padding: 8px 10px;
+}
+.Customer-Support {
+    font-size: 12px;
+}
+.whatsapp-logo {
+    margin-top: 10px;
+}
+.hero_section {
+    background-image: url(./images/sample-1.jpg);
+    background-size: cover;
+    height: 55vh;
+    width: 100%;
+}
+.hero-btn {
+    
+    padding: 10px 20px;
+    background-color: rgb(39, 175, 46);
+}
+.compare-para {
+    border: 1px solid red;
+    padding: 15px 0px 15px 10px;
+    font-size: 13px;
+    background-color: #e7cdbd;
+}
+@media screen and (max-width:480px) {
+    .hero_section {
+        background-image: url(./images/sample-1.jpg);
+        background-size: cover;
+        height: 19vh;
+        width: 100%;
+
+    }
+    .heading_hero {
+        font-size: 10px;
+    }
+    .hero_para {
+        font-size: 10px;
+
+    }
+    .hero_span {
+        font-size: 10px;
+    }
+    .hero-btn {
+        font-size: 8px;
+        background-color: rgb(39, 175, 46);
+    }
+}
+.btns :hover {
+    border: 1px solid rgb(39, 175, 46);
+    cursor: pointer;
+}
+.btn-0 {
+    border: 1px solid white;
+}
+.card_heading {
+    font-size: 15px;
+}
+.card_para {
+    font-size: 13px;
+}
+.fresh-vegitables {
+    background-image: url(./images/1-1.jpg);
+    width: 55vh;
+    background-size: cover;
+    height: 20vh;
+}
+.natural-fresh-fruits {
+    background-image: url(./images/2-1.jpg);
+    width: 55vh;
+    background-size: cover;
+    height: 20vh;
+
+}
+.BLACK_FRIDAYS {
+    background-image: url(./images/3_1.jpg);
+    height: 55vh;
+    background-repeat: no-repeat;
+}
+.footer-logo {}
+
+.footer-para-1 {
+    font-size: 15px;
+}
+.footer-heading {
+    font-size: 20px;
+}
+.info-list,
+.links-list {
+    list-style: none;
+    padding: 0;
+}
+.info-list li {
+    padding: 6px 0px;
+    font-size: 14px;
+}
+.footer-para-2 {
+    font-size: 15px;
+}
+.button_input {
+    height: 45px;
+    width: 250px;
+}
+.newsletter-button {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 5px;
+    font-size: 12px;
+    cursor: pointer;
+}
+.footer_line {
+    background-color: rgb(39, 175, 46);
+}
+.products-home {
+    margin: 7px 0px;
+}
+.tag-btns {
+    background: #fff;
+    font-size: 14px;
+    color: #868585;
+}
+.tag-btns:hover {
+    cursor: pointer;
+    background-color: #28a745;
+    color: #fff;
+}
+.bg-contact-us {
+    background: url(./images/bg_breadcrumb.jpg) no-repeat center;
+    height: 15vh;
+    background-repeat: no-repeat;
+}
+.contact_us_para {
+    font-size: 14px;
+}
+.form_span {
+    font-size: 13px;
+}
+h2 {
+    color: #333;
+}
+.form-group label {
+    font-weight: bold;
+}
+.form-control {
+    border-radius: 5px;
+}
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: #fff;
+    transition: background-color 0.3s ease;
+}
+.btn-primary:hover {
+    background-color: #0062cc;
+}
+.store-info {
+    margin-bottom: 30px;
+}
+.store-info i {
+    margin-right: 10px;
+}
+@media screen and (min-width: 992px) {
+
+
+    .img_apple img {
+        float: left;
+        width: 200px;
+    }
+}
+.card_1_price {
+    color: rgb(39, 175, 46);
+    font-size: 19px;
+}
+.sale-heading {
+    font-size: 15px;
+}
+.sale-span {
+    font-size: 14px;
+    color: #868585;
+}
+.card-span-3 {
+    color: #222020;
+    font-size: 14px;
+}
+
+.availibility {
+    font-size: 14px;
+}
+.Score_extra {
+    color: #383636;
+    font-size: 14px;
+}
+.submitf {
+    border: 2px solid;
+    background-color: #5fc2e0;
+}
+.form-span {
+    font-size: 13px;
+}
