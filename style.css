@@ -141,25 +141,23 @@
     font-size: 13px;
 }
 .fresh-vegitables {
-    background-image: url(./images/1-1.jpg);
+    background-image: url(./images/background1-1.jpg);
     width: 55vh;
     background-size: cover;
     height: 20vh;
 }
 .natural-fresh-fruits {
-    background-image: url(./images/2-1.jpg);
+    background-image: url(./images/background2-1.jpg);
     width: 55vh;
     background-size: cover;
     height: 20vh;
 
 }
 .BLACK_FRIDAYS {
-    background-image: url(./images/3_1.jpg);
+    background-image: url(./images/background3-1.jpg);
     height: 55vh;
     background-repeat: no-repeat;
 }
-.footer-logo {}
-
 .footer-para-1 {
     font-size: 15px;
 }
